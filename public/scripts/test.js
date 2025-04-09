@@ -1,0 +1,1 @@
+(function () {console.log('我是内置的脚本， 当NestedJSDemo运行时会执行') })()
